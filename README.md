@@ -28,7 +28,7 @@ A lightweight **Python 3.8+** script that uses **[Telethon](https://github.com/
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/azorkai/telegram-member-scraper.git
+git clone https://github.com/azorkai/telegram-group-scraper.git
 cd telegram-member-scraper
 python -m venv .venv
 # Linux / macOS
